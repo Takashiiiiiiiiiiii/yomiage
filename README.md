@@ -1,17 +1,8 @@
-⚠ 注意
-```
-v1.0.0以前には、脆弱性があります。必ず最新のバージョンを利用してください。
-すでにダウンロード済みの場合、git pullを実行することでアップデートが可能です。
-```
 
 # Damare
 
 DamareはDiscord読み上げBotです。
 Windowsでのみ動作して、Softalkに依存しています。
-
-## YouTube紹介動画
-
-[![](https://img.youtube.com/vi/kt_3HDIt3gQ/0.jpg)](https://www.youtube.com/watch?v=kt_3HDIt3gQ)
 
 ## 前提条件
 
